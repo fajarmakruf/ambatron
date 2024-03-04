@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fajarmakruf/ambatron.git"
+    "url": "https://github.com/fajarmakruf/ambatron.git"
   },
   "bugs": {
     "url": "https://github.com/fajarmakruf/ambatron/issues"
